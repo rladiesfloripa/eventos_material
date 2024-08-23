@@ -3,8 +3,11 @@ Os arquivos/materiais dos projetos trabalhados nos eventos promovidos pelo capí
 
 - 8º MeetUp:
 Título: Meta-análises para diferenças de médias e proporções usando R.
+
 Speaker: Juliana Bolzan
+
 Data: 29/08/2024
+
 Materiais: [PositCloud](https://posit.cloud/content/8573312) ou [GitHub]()
 
 - 9º MeetUp:
