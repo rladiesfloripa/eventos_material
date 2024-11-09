@@ -9,6 +9,6 @@ Materiais: [PositCloud](https://posit.cloud/content/8573312) ou [GitHub](https:/
 
 - 9º MeetUp:\
 Título: Iniciando com R: dos fundamentos da programação à manipulação de dados.\
-Data: 26/10/2024\
+Data: 09/11/2024\
 Speaker: Andressa Monteiro\
 Materiais: [PositCloud](https://posit.cloud/content/9209612)
