@@ -8,7 +8,7 @@ Data: 29/08/2024\
 Materiais: [PositCloud](https://posit.cloud/content/8573312) ou [GitHub](https://github.com/rladiesfloripa/eventos_material/tree/main/metaanalise)
 
 - 9º MeetUp:\
-Título: Lógica de programação com R.\
+Título: Iniciando com R: dos fundamentos da programação à manipulação de dados.\
 Data: 26/10/2024\
 Speaker: Andressa Monteiro\
-Materiais:
+Materiais: [PositCloud](https://posit.cloud/content/9209612)
