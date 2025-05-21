@@ -20,4 +20,4 @@ Materiais: [PositCloud](https://posit.cloud/content/9209612)
 - Título: Explorando o pacote {pcir} para análise de conflitos e consenso\
 Data: 07/05/2025\
 Speaker: Francesca Palmeira\
-Materiais: [GitHub](github.com/fblpalmeira/RLadies_Floripa)
+Materiais: [GitHub](https://github.com/fblpalmeira/RLadies_Floripa)
